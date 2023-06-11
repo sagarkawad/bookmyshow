@@ -1,0 +1,14 @@
+# Ignore virtual environment folders
+venv/
+env/
+sheets/
+.vscode/
+
+# Ignore generated files
+__pycache__/
+*.pyc
+chromedriver.exe
+
+# Ignore editor-specific files
+.vscode/
+.idea/
